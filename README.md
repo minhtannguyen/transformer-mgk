@@ -17,6 +17,6 @@ Please cite us at
   author={Nguyen, Tam and Nguyen, T and Le, D and Nguyen, K and Tran, A and Baraniuk, R and Ho, Nhat and Osher, S},
   year={2022},
   booktitle={Proceedings of the 39th International Conference on Machine Learning},\
-  ser\ies={Proceedings of Machine Learning Research}
+  series={Proceedings of Machine Learning Research}
 }
 ```
