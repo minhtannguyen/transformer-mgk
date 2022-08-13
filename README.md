@@ -1,5 +1,5 @@
 # Improving Transformers with Probabilistic Attention Keys
-The model and theory behind our implementations in this library are explained in our ICML paper "[Improving Transformers with Probabilistic Attention Keys](https://arxiv.org/abs/2110.08678)". A short summary of our paper can be found on our [blog](https://sites.google.com/view/probtransformer/blogs/improving-transformers-with-probabilistic-attention-keys?fbclid=IwAR11ZqCKM92xmxh4FKaMeLhlkZutNTCbnJQt9WLMQ-696DLAuK1FrzovhSg).
+The model and theory behind our implementations in this library are explained in our ICML paper "[Improving Transformers with Probabilistic Attention Keys](https://arxiv.org/abs/2110.08678)". A short summary of our paper is given on our [blog](https://sites.google.com/view/probtransformer/blogs/improving-transformers-with-probabilistic-attention-keys?fbclid=IwAR11ZqCKM92xmxh4FKaMeLhlkZutNTCbnJQt9WLMQ-696DLAuK1FrzovhSg).
 
 Instructions for running the experiments in our paper are given in the following files:
 
